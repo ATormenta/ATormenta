@@ -1,28 +1,35 @@
 ### Hi there, I’m Luiza 🌙
 
-![HTML](https://img.shields.io/badge/HTML5-0A0F1C?style=for-the-badge&logo=html5&logoColor=F16529)
-![CSS](https://img.shields.io/badge/CSS3-0A0F1C?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0F1C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0A0F1C?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-0A0F1C?style=for-the-badge&logo=git&logoColor=F05032)
-![Figma](https://img.shields.io/badge/Figma-0A0F1C?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![VS Code](https://img.shields.io/badge/VS%20Code-0A0F1C?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Always Learning](https://img.shields.io/badge/Always%20Learning-0A0F1C?style=for-the-badge&logo=bookstack&logoColor=white)
+<div style="font-size:18px; max-width: 600px;">
+
+I’m 24 years old, born in Minas Gerais, but now I live in Santa Catarina.
+My interest in programming kind of started without me even realizing it, through design and gaming — two passions that made me want to understand how things really work behind the scenes.
+Honestly, I’m fully committed to learning and improving whenever I can.
+---
+
+> 🖼 **With a background in architecture and digital illustration, I bring a creative eye to every project I touch.**
+
+> 👩‍🏫 **As a teacher, I know how to explain, share, and connect — and I apply that same energy when I’m learning something new.**
+
+> 💻 **Right now, I’m focusing on** **HTML, CSS, JavaScript, React** **and building solid frontend foundations.**
 
 ---
 
-🌌 **About me**  
-I’m an **architect**, **illustrator**, and **teacher** — now embracing the journey into **frontend development**.  
-With a creative background and a curious mind, I’m passionate about building beautiful, functional, and meaningful digital experiences.
+### Connect With Me 📫
 
-🖌 **Creative eye** → from architecture and digital art  
-👩‍🏫 **Teaching spirit** → clear communication and love for learning  
-💻 **Coding focus** → HTML, CSS, JavaScript, React, Git, and design tools like Figma
+<div style="display:flex; gap: 15px; flex-wrap: wrap; max-width: 600px;">
+  <div style="border: 2px solid #ccc; padding: 12px 20px; border-radius: 8px; flex: 1; min-width: 220px;">
+    <strong>📧 Gmail</strong><br/>
+    <a href="mailto:Luiza.molinari2014@gmail.com">Luiza.molinari2014@gmail.com</a>
+  </div>
+  <div style="border: 2px solid #ccc; padding: 12px 20px; border-radius: 8px; flex: 1; min-width: 220px;">
+    <strong>🎮 Discord</strong><br/>
+    a_tormenta
+  </div>
+  <div style="border: 2px solid #ccc; padding: 12px 20px; border-radius: 8px; flex: 1; min-width: 220px;">
+    <strong>🔗 LinkedIn</strong><br/>
+    <a href="https://www.linkedin.com/in/luiza-molinari/" target="_blank">linkedin.com/in/luiza-molinari</a>
+  </div>
+</div>
 
----
-
-✨ **I’m dedicated, curious, and always ready to learn.**  
-I believe that effort + persistence open every door.
-
-Let’s create something magical! 🌙
-
+</div>
