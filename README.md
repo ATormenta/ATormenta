@@ -1,17 +1,19 @@
 ### Hi there, I’m Luiza 🌙
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+🌌 **About me**  
+I’m an **architect**, **illustrator**, and **teacher** — now embracing the journey into **frontend development**.  
+With a creative background and a curious mind, I’m passionate about building beautiful, functional, and meaningful digital experiences.
 
-I’m an architect, illustrator, and teacher, currently diving deep into the world of **frontend development**.  
-I’m passionate about learning and I’m always eager to challenge myself with new tools, languages, and projects.
-
-🖼 With a background in architecture and digital illustration, I bring a creative eye to every project I touch.  
-👩‍🏫 As a teacher, I know how to explain, share, and connect — and I apply that same energy when I’m learning something new.  
-💻 Right now, I’m focusing on **HTML, CSS, JavaScript, React** and building solid frontend foundations.
-
+With a background in architecture and digital illustration, I bring a creative eye to every project I touch.  
+As a teacher, I know how to explain, share, and connect — and I apply that same energy when I’m learning something new.
 ✨ I’m dedicated, curious, and always ready to improve. I believe that with effort and persistence, anything can be learned.
+ 
+ ##
 
-Let’s connect and build something amazing!
+![ATormenta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ATormenta&theme=tokyonight&hide_border=false)
+
+[![Discord](https://img.shields.io/badge/Discord-0A0F1C?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/a_tormenta)  
+[![Gmail](https://img.shields.io/badge/Gmail-0A0F1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiza.molinari2014@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-molinari/)
+
+![Image](https://github.com/user-attachments/assets/e0c6d873-cfdd-4e2d-8538-c2972776550e)
